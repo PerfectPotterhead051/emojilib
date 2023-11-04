@@ -21,7 +21,7 @@ npm install emojilib --save
     'joy',
     ':D',
     'grin'
-  ],
+    'yay'
   '😃': [
     'grinning_face_with_big_eyes',
     'face',
